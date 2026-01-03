@@ -1,23 +1,23 @@
 import { Service } from "./types";
 import { Language } from "./types";
-import tournageVideo from "/Users/macintoshsd/Downloads/soraproevent/assets/images/Tournage_Video_Professionnel_copie.jpg";
-import montage from "/Users/macintoshsd/Downloads/soraproevent/assets/images/Montage & Post-Production copie.jpg";
-import drone from "/Users/macintoshsd/Downloads/soraproevent/assets/images/DroneetPrisesdeVueAeriennes copie.jpg";
-import streaming from "/Users/macintoshsd/Downloads/soraproevent/assets/images/StreamingetCaptationLive copie.jpg";
-import lumiere from "/Users/macintoshsd/Downloads/soraproevent/assets/images/LumièreeteclairageScenique copie.jpg";
-import son from "/Users/macintoshsd/Downloads/soraproevent/assets/images/SonorisationetSolutionsAudio copie.jpg";
-import dj from "/Users/macintoshsd/Downloads/soraproevent/assets/images/DJ&AnimationMusicale copie 2.jpg";
-import photo from "/Users/macintoshsd/Downloads/soraproevent/assets/images/PhotographieProfessionnelle copie.jpg";
-import digital from "/Users/macintoshsd/Downloads/soraproevent/assets/images/DigitaletContenusRéeseauxSociaux copie.jpg";
-import m from "/Users/macintoshsd/Downloads/soraproevent copy/assets/logo/2m.png";
-import atelier_vert from "/Users/macintoshsd/Downloads/soraproevent copy/assets/logo/atelier-vert.png";
-import atomy from "/Users/macintoshsd/Downloads/soraproevent copy/assets/logo/atomy.png";
-import boston_scientific from "/Users/macintoshsd/Downloads/soraproevent copy/assets/logo/boston-scientific.png";
-import mcl from "/Users/macintoshsd/Downloads/soraproevent copy/assets/logo/mcl.png";
-import mfc from "/Users/macintoshsd/Downloads/soraproevent copy/assets/logo/mfc.png";
-import sothema from "/Users/macintoshsd/Downloads/soraproevent copy/assets/logo/sothema.png";
-import morocco_roleplay from "/Users/macintoshsd/Downloads/soraproevent copy/assets/logo/morocco-roleplay.png";
-import mea_distribution from "/Users/macintoshsd/Downloads/soraproevent copy/assets/logo/mea-distribution.png";
+import tournageVideo from "./assets/images/Tournage_Video_Professionnel_copie.jpg";
+import montage from "./assets/images/Montage & Post-Production copie.jpg";
+import drone from "./assets/images/DroneetPrisesdeVueAeriennes copie.jpg";
+import streaming from "./assets/images/StreamingetCaptationLive copie.jpg";
+import lumiere from "./assets/images/LumièreeteclairageScenique copie.jpg";
+import son from "./assets/images/SonorisationetSolutionsAudio copie.jpg";
+import dj from "./assets/images/DJ&AnimationMusicale copie 2.jpg";
+import photo from "./assets/images/PhotographieProfessionnelle copie.jpg";
+import digital from "./assets/images/DigitaletContenusRéeseauxSociaux copie.jpg";
+import m from "./assets/logo/2m.png";
+import atelier_vert from "./assets/logo/atelier-vert.png";
+import atomy from "./assets/logo/atomy.png";
+import boston_scientific from "./assets/logo/boston-scientific.png";
+import mcl from "./assets/logo/mcl.png";
+import mfc from "./assets/logo/mfc.png";
+import sothema from "./assets/logo/sothema.png";
+import morocco_roleplay from "./assets/logo/morocco-roleplay.png";
+import mea_distribution from "./assets/logo/mea-distribution.png";
 
 import {
   Video,

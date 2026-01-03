@@ -6,8 +6,8 @@ import { ServiceCard } from "../components/ServiceCard";
 import { ChevronRight, Star } from "lucide-react";
 import { useLanguage } from "../LanguageContext";
 
-import backgroundImage from "/Users/macintoshsd/Downloads/soraproevent/assets/images/fond_Couleur.jpg";
-import video from "/Users/macintoshsd/Downloads/soraproevent copy/assets/video/Séquence.mp4";
+import backgroundImage from "../assets/images/fond_Couleur.jpg";
+import video from "../assets/video/Séquence.mp4";
 
 interface HomeProps {
   setView: (view: ViewState) => void;

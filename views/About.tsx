@@ -3,8 +3,8 @@ import { ViewState } from "../types";
 import { Button } from "../components/Button";
 import { Camera, Heart, ShieldCheck, Users } from "lucide-react";
 import { useLanguage } from "../LanguageContext";
-import teamImage from "/Users/macintoshsd/Downloads/soraproevent/assets/images/952-1200x500-grayscale.jpg";
-import spirit from "/Users/macintoshsd/Downloads/soraproevent/assets/images/about copie 4.jpg";
+import teamImage from "../assets/images/952-1200x500-grayscale.jpg";
+import spirit from "../assets/images/about copie 4.jpg";
 interface AboutProps {
   setView: (view: ViewState) => void;
 }
